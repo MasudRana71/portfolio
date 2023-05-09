@@ -1,0 +1,93 @@
+@media (min-width: 0px) and (max-width: 767px) {
+
+    .head-text{
+        font-size: 20px;
+    }
+   
+    .head-text h1{
+        font-size: 35px;
+    }
+    .logo{
+        width: 100px;
+        margin-top: 20px;
+       
+    }
+    #header {
+        height: 70vh; 
+    }
+    #about{
+        padding: 10px 100px;
+        margin-top: 5px;
+    }
+
+    .about-column1 img{
+        visibility: hidden;
+    }
+    /* common code start */
+    nav ul li {
+        display: inline-block;
+        list-style: square;
+        margin: 10px 5px;
+    }
+    nav ul li a{
+
+        font-size: 15px;
+        text-decoration: none;
+        color: rgba(255, 255, 255, 0.856);
+        
+    }
+    .about-column1 img{
+        margin-left: 110px;
+    }
+    .subt{
+        text-align: center;
+    }
+    .cleft h1 {
+        margin-left: 100px;
+    }
+    .cleft p {
+        margin-left: 80px;
+    }
+    .cleft .sicon {
+        margin-left: 120px;
+    }
+    .cleft .btn2 {
+        margin-left: 120px;
+    }
+    .cright .btn2 {
+        margin-left: 150px;
+    }
+
+    .sicon a {
+        text-decoration: none;
+        font-size: 30px;
+        padding: 5px;       
+    }
+    .cright form{
+
+        margin-left: 25px;
+    }
+
+    .layer a{
+        margin-top: 5px;
+        color: #1c10c9;
+        font-size: 10px;
+        line-height: 30px;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        background: #9d9bbe;
+        text-align: center;
+    }
+    .slist div i{
+
+        margin-left: 100px;
+    }
+    .slist div a{
+        margin-left: 100px;
+     }
+    .slist div .response{
+        text-align: center;
+        margin-right: 40px;
+     }
+}
